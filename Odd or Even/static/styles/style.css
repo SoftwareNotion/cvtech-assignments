@@ -1,0 +1,13 @@
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 97.9vh;
+}
+label {
+    font-size: 30px;
+}
+input {
+    height: 50px;
+}
